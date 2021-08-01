@@ -1,5 +1,5 @@
 # Object-Detection-
-# YOLO (You Only Look Once) Object Detection using OpenCV in Python.
+# Geeks Object Detection using OpenCV in Python.
 
 <div align="center">
 
